@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>homepage</title>
+        <link rel="templates" href="Start.png">
+    <body>
+        <div class="left_section">
+            <a href="pages/page2.html"><img src="Start button (2).png" alt="start_button" id="start_button"/></a>
+            <a href="pages/page3.html"><img src="Take survey.png" alt="survey_button" id="survey_button"/></a>
+            <a href="pages/page4.html"><img src="level selection.png" alt="level_button" id="level_button"/></a>
+        </div>
+    </body>
+    </head>
+</html>
